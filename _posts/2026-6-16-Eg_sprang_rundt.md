@@ -5,7 +5,6 @@ title: Eg sprang rundt i Elwynnskogen og drap
 **Eit essay om vald. Hovudsakeleg i World of Warcraft, men også i andre dataspel.**
 
 
-
 Eg sprang rundt i Elwynnskogen og drap. Eg blei beden om å drepa, og eg drap.
 
 Eg drap kjeltringar, koboldar og gnollar. I gjengjeld fekk eg gull, våpen, eitt og anna brød og nye oppdrag, nye oppdrag om å drepa. Av og til om å hjelpa nokon med noko anna enn drap – henta eit smykke eller baka ein pai – men stort sett involverte også desse fleire drap. Smykket var teke av ein kobold ved namn Gulltann, han var djupt inni den gamle gruva som koboldane hadde teke over.
