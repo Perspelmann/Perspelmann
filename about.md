@@ -1,15 +1,17 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om
+permalink: /Om journalen/
 ---
 
-Some information about you!
+### Kva er det her?
 
-### More Information
+Eg skriv om ulike tema som opptek meg. Stort sett dataspel, men også:
+  - Kunst
+  - Litteratur
+  - Springing
+  - Turar
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
+### Kontakt meg
 
 [email@domain.com](mailto:email@domain.com)
